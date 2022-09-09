@@ -1,0 +1,16 @@
+metasploit-framework 6.2.17+20220908153232-1rapid7
+
+Component                               Installed Version               Version GUID                                                              
+--------------------------------------------------------------------------------------------------------------------------------------------------
+bundler                                 2.1.4                           
+cacerts                                 2021-10-26                      sha256:ae31ecb3c6e9ff3154cb7a55f017090448f88482f0e94ac927c0c67a1f33b9cf   
+metasploit-framework                    master                          git:3682f4dee9e4f1718c205a448638f16a9cff57ea                              
+metasploit-framework-wrappers-windows   1.0.0                           
+pcaprub                                 0.12.4                          
+postgresql-windows                      9.6.20                          sha256:a76e41e3101e09a2e772a26f0b93b405a97482b42b0695893465f3533c76d326   
+ruby-windows                            3.0.2-1                         sha256:92894c0488ec7eab02b2ffc61a8945c4bf98d69561e170927ec30d60bee57898   
+ruby-windows-devkit                     6.2.17+20220908153232-1rapid7   
+ruby-windows-msys2                      20220603                        sha256:39e476b45b7ca39567afd341146af68ed53b89b09c90d285988367ec5c5ecc11   
+rubygems                                3.2.22                          md5:b128d5493da2ec7a1da49a7189c04b35                                      
+sqlite                                  3.8.8.2                         md5:3425fa580a56880f56bcb887dd26cc06                                      
+winpcap-devpack                         4.1.2                           md5:bae2236af062b0900ad1416b2c4878b9                                      
