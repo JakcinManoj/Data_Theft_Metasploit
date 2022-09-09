@@ -3,6 +3,7 @@
 
 The Main Goal of the Project is to show the vulnerability in a Android Device.
 
+'''
 1.The downloaded file is extracted in a location.
 2.The cmd is opened at the exact same location.
 3.The msfconsole command line helps to open the framework in console.
@@ -14,6 +15,7 @@ The Main Goal of the Project is to show the vulnerability in a Android Device.
 9.Confirm the connection established using "show options".
 10.Finally,use "exploit" command to establish connection.
 
+'''
 
 Note:The target has to be activated once to establish connection.
 
